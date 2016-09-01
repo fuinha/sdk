@@ -1,6 +1,6 @@
 # The Things Uno Library
 
-The Things Uno Library for Arduino has been renamed to The Things Network Arduino Library, moved to its own repository at [TheThingsNetwork/arduino-library](https://github.com/TheThingsNetwork/arduino-library) and can now also be installed and updated via the Arduino IDE Library Manager.
+The Things Uno Library for Arduino has been renamed to The Things Network, moved to its own repository at [TheThingsNetwork/arduino-library](https://github.com/TheThingsNetwork/arduino-library) and can now also be installed and updated via the Arduino IDE Library Manager.
 
 Be aware that you will have to updated your sketches and replace:
 
